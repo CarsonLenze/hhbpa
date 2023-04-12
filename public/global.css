@@ -1,0 +1,21 @@
+@media only screen and (max-width: 650px) {
+    .slide {
+        position: unset !important;
+    }
+}
+
+.bg {
+
+    width: 200%; 
+    height: 200%;
+  }
+  .bg img {
+    padding-top: 1vh;
+    top: 0; 
+    left: -25%; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+  }

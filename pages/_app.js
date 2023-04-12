@@ -1,4 +1,5 @@
 import { NextUIProvider, createTheme } from "@nextui-org/react";
+import '../public/global.css'
 
 const theme = createTheme({
   type: "light",
